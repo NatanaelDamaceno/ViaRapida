@@ -1,2 +1,2 @@
 # ViaRapida
-Transporte 
+Plataforma de mobilidade ViaRápida — passageiro, motorista, backend e painel administrativo.
